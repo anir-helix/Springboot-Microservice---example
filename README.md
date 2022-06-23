@@ -14,3 +14,7 @@ and Monitoring system for all the API.
 ### Service 2- Implementing Car Company Service
 
     A Microservice that will handle only data specifc to Car company and it's relavant details.
+
+### Service 3- Implementing Car Factory Service
+
+    A Microservice that will handle only data specifc to Car factory and it's relavant details.
